@@ -199,7 +199,7 @@ minikube kubectl cluster-info
 
 ---
 
-## ⚙B) Phase d’utilisation de MiniKube
+## B) Phase d’utilisation de MiniKube
 
 ### Comprendre les commandes de base
 
